@@ -12,7 +12,7 @@ public class Main {
         JPanel panel = new JPanel();
 
         //3. create components
-        JButton button = new JButton("push me!");
+        JButton button = new JButton("change me!");
         JTextField textField = new JTextField(10);
         JLabel label = new JLabel("Hello world");
         ImageIcon icon = new ImageIcon("2C.png");
